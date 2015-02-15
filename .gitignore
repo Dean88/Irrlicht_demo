@@ -17,6 +17,18 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# @[Wang Songwei] Add
+*.obj
+*.ipch
+*.exe
+*.sdf
+*.suo
+*.pdb
+*.ilk
+*.exp
+*.def
+
+
 # =========================
 # Operating System Files
 # =========================
